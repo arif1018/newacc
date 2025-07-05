@@ -18,5 +18,5 @@ npm install
 npm start
 ```
 
-The API is available at `/api/users`.
+The APIs are available at `/api/users` and `/api/products`.
 
